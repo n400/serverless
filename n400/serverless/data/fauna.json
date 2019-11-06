@@ -1,0 +1,1 @@
+{"type":"PR","user":"Summer Schrader","status":"draft","branch":"cms/n400/serverless/data/fauna","collection":"data","commitMessage":"Update Data Storage “fauna”","title":"FaunaDB","description":"No Description!","objects":{"entry":{"path":"src/content/data/fauna.md","sha":"4ffcad7075944236264a1c3f632a4d8001a0e106"},"files":[]},"timeStamp":"2019-11-06T21:43:17.880Z"}
